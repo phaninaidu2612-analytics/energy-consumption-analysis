@@ -154,11 +154,17 @@ Higher income groups show reduced relative savings, possibly due to higher consu
 
 ## Conclusion :
 
-This dashboard provides a comprehensive overview of energy consumption patterns across different regions, income levels, and energy sources.
+This dashboard provides a comprehensive analysis of global household energy consumption by integrating regional, economic, and energy source data into a unified view.
 
-It enables stakeholders to:
+The analysis highlights that region, income level, and energy source are key factors influencing consumption patterns and cost efficiency. High-consumption regions such as Asia and Africa indicate strong energy demand, while variations across countries reflect differences in infrastructure and adoption levels.
 
-- Identify high-consumption regions
-- Understand the role of income in energy usage
-- Evaluate renewable energy adoption
-- Make data-driven sustainability decisions
+The dominance of renewable energy sources, particularly wind and hydro, suggests a growing shift toward sustainable energy solutions. Additionally, income-based analysis reveals that while higher-income households consume more energy, they experience relatively lower cost savings efficiency, whereas lower-income groups retain better proportional savings.
+
+Overall, this solution enables stakeholders to:
+
+- Identify high-demand regions and energy consumption patterns
+- Evaluate renewable energy adoption trends
+- Understand income-driven consumption and savings behavior
+- Support data-driven decisions for sustainability and energy planning
+
+This project demonstrates how cloud integration (AWS + Snowflake) combined with interactive visualization in Tableau can transform raw energy data into meaningful insights for strategic decision-making.
