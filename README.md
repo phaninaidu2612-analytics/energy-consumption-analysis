@@ -116,7 +116,7 @@ Column structure
 Asia and Africa show the highest energy consumption (~41K KWH)
 North America has comparatively lower consumption (~20K KWH)
 
-![region](https://github.com/user-attachments/assets/d19e5dbc-4507-40ea-b9e0-451dd57081a3)
+![region](https://github.com/user-attachments/assets/68dd88c8-6c8c-43eb-9a28-abf1c318e46f)
 
 - Energy Source Distribution :
 Wind energy dominates total usage
@@ -127,14 +127,14 @@ Biomass
 Geothermal
 Indicates a strong inclination toward renewable energy sources
 
-![source](https://github.com/user-attachments/assets/38bd6c02-281a-4eb4-911e-6a18b109d34f)
+![source](https://github.com/user-attachments/assets/6bf48133-70cd-4567-a9a3-ff5c9240a4c6)
 
 -  Income Level Impact
 Middle-income households form the largest segment
 Energy consumption increases with income level adjustments
 Cost savings decrease proportionally for higher income groups
 
-![income](https://github.com/user-attachments/assets/d6c178eb-35a0-45b1-91dc-75051d720e10)
+![income](https://github.com/user-attachments/assets/0715d5f9-ca5b-4ea1-81b5-716731eaad58)
 
 - Geographic Insights
 Countries like India, Argentina, and New Zealand show varying consumption patterns
